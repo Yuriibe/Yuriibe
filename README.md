@@ -33,7 +33,7 @@ Write code as if your future self, sleep-deprived at 3 AM, is going to debug it.
     <img src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="Discord" width="40" height="40"/>
   </a>
   <span> Yuribe</span>
-
+  <p></p>
    <a href="https://soundcloud.com/yuribe/sets/hardstyle" target="_blank" rel="noreferrer">
   <img src="https://www.svgrepo.com/show/135807/soundcloud.svg" alt="soundcloud-Banger" width="40" height="40"/>
   </a>
