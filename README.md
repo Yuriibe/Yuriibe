@@ -82,4 +82,4 @@ Write code as if your future self, sleep-deprived at 3 AM, is going to debug it.
 
 ---
 
-<a href="https://soundcloud.com/yuribe/sets/hardstyle" target="blank"><img align="center" src="https://www.svgrepo.com/show/135807/soundcloud.svg"
+<a href="https://soundcloud.com/yuribe/sets/hardstyle" target="blank"><img align="center" src="https://www.svgrepo.com/show/135807/soundcloud.svg">
