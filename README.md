@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuriibe</h1>
+<h1 align="center">Hi 👋, I'm Yuribe</h1>
 <h3 align="center">A passionate developer from Germany, diving into the world of cybersecurity in my free time.</h3>
 
 ---
