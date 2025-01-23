@@ -3,6 +3,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThrdDVuM2M4aGozZDMxNDU5dmNiNmE2dTM3bnVzb2YwN2g0dDBtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3fBVaRM2c79TtXbyi6/giphy.gif" width="400" height="200" alt="GIF showing something cool or related to coding" />
+</p>
+
+---
+
 ### 🌍 Why I chose coding  
 I’ve always been fascinated by how things work under the hood—whether it’s a program, an operating system, or a single line of code. Programming feels like solving puzzles, and every problem is a challenge to unlock.
 
@@ -72,8 +78,3 @@ Write code as if your future self, sleep-deprived at 3 AM, is going to debug it.
 </p>
 
 ---
-
-<h3 align="center">🎥 A Glimpse of Me</h3>
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThrdDVuM2M4aGozZDMxNDU5dmNiNmE2dTM3bnVzb2YwN2g0dDBtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3fBVaRM2c79TtXbyi6/giphy.gif" width="400" height="200" alt="GIF showing something cool or related to coding" />
-</p>
