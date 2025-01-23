@@ -27,9 +27,12 @@ Write code as if your future self, sleep-deprived at 3 AM, is going to debug it.
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+<h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
-    <img src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="bash" width="40" height="40"/> Yuribe
+  <a href="https://discord.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="Discord" width="40" height="40"/>
+  </a>
+  <span>Yuriibe</span>
 </p>
 
 <h3 align="left">💻 Languages and Tools:</h3>
