@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yuriibe</h1>
 <h3 align="center">A passionate developer from Germany, spending free time diving into the world of cybersecurity.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuriibe&label=Profile%20views&color=0e75b6&style=flat" alt="yuriibe" /> </p>
 
 - 🌍 Why I chose coding **I’ve always been fascinated by how things work under the hood—whether it’s a program, an operating system, or a single line of code. Programming feels like solving puzzles, and every problem is a challenge to unlock.**
 
