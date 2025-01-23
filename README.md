@@ -17,7 +17,7 @@ Wrapping up my development apprenticeship and exploring cybersecurity concepts, 
 To excel in cybersecurity, focusing on reverse engineering, vulnerability analysis, and penetration testing. My aim is to contribute to building secure systems by tackling risks at their core.
 
 ### 🌟 My Philosophy as a Developer  
-Write code as if your future self, sleep-deprived at 3 AM, is going to debug it—and leave comments to keep them sane.
+Write code as if your future self, sleep-deprived at 3 AM, is going to debug it. Because trust me, they will, and they won’t be happy if you didn’t leave comments
 
 ---
 
@@ -73,15 +73,7 @@ Write code as if your future self, sleep-deprived at 3 AM, is going to debug it�
 
 ---
 
-### 🌟 Fun Addition: A Cool GIF  
-You can include a GIF to add a personal touch or make the profile visually engaging. Here’s how you can do it:
-
-#### Example Placement:
-Add it right after your introduction or under a dedicated section like **"A Glimpse of Me"**.
-
-#### Markdown Code for a GIF:
-```markdown
 <h3 align="center">🎥 A Glimpse of Me</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/your-cool-gif-url-here/giphy.gif" width="400" height="200" alt="GIF showing something cool or related to coding" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThrdDVuM2M4aGozZDMxNDU5dmNiNmE2dTM3bnVzb2YwN2g0dDBtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3fBVaRM2c79TtXbyi6/giphy.gif" width="400" height="200" alt="GIF showing something cool or related to coding" />
 </p>
