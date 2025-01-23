@@ -32,7 +32,7 @@ Write code as if your future self, sleep-deprived at 3 AM, is going to debug it.
   <a href="https://discord.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="Discord" width="40" height="40"/>
   </a>
-  <span>Yuriibe</span>
+  <span> Yuribe</span>
 </p>
 
 <h3 align="left">💻 Languages and Tools:</h3>
