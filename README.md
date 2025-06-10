@@ -9,7 +9,7 @@
 
 ### 🔍 About Me
 
-- 🧠 I love figuring out how things work—especially systems, code, and security flaws.  
+- 🧠 I love figuring out how things work especially systems, code, and security flaws.  
 - 🎓 Wrapping up a dev apprenticeship, and spending free time diving into cybersecurity.
 
 ---
