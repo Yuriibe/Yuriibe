@@ -32,7 +32,7 @@
 
 ### 💡 My Developer Philosophy
 
-> Write code like your future self will be debugging it at 3AM.  
+> Write code like your future self sleep-deprived at 3AM will be debugging it.  
 > Because trust me, you will, and you won’t be happy if you didn’t leave comments.
 
 ---
