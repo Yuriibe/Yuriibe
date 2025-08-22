@@ -30,8 +30,6 @@
 
 ---
 
-### 💡 My Developer Philosophy
-
 > Write code like your future self sleep-deprived at 3AM will be debugging it.  
 > Because trust me, you will.
 
