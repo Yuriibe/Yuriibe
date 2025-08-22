@@ -10,7 +10,7 @@
 ### 🔍 About Me
 
 - 🧠 I love figuring out how things work especially systems, code, and security flaws.  
-- 🎓 Wrapping up a dev apprenticeship, and spending free time diving into cybersecurity.
+- 🎓 diving deeper into cybersecurity in my free time.
 
 ---
 
@@ -33,7 +33,7 @@
 ### 💡 My Developer Philosophy
 
 > Write code like your future self sleep-deprived at 3AM will be debugging it.  
-> Because trust me, you will, and you won’t be happy if you didn’t leave comments.
+> Because trust me, you will.
 
 ---
 
