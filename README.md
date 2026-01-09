@@ -2,7 +2,7 @@
 <h3 align="center">Developer from Germany, exploring cybersecurity in my spare time</h3>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThrdDVuM2M4aGozZDMxNDU5dmNiNmE2dTM3bnVzb2YwN2g0dDBtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3fBVaRM2c79TtXbyi6/giphy.gif" width="400" height="200" alt="Coding GIF" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGpkdm56MTBkdG1qMDg4N2xmbHBsdnBjbDZhcjBuNHpiM25ncXM1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif" width="400" height="200" alt="Coding GIF" />
 </p>
 
 ---
