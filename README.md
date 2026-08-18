@@ -52,20 +52,6 @@
 
 ---
 
-### 📬 Connect
-
-<p align="left">
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="Discord" width="30" />
-  </a> <span> Yuribe</span>  
-  <br/>
-  <a href="https://soundcloud.com/yuribe/sets/hardstyle" target="_blank">
-    <img src="https://www.svgrepo.com/show/135807/soundcloud.svg" alt="SoundCloud" width="30" />
-  </a> <span> Music Vibes</span>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p>
